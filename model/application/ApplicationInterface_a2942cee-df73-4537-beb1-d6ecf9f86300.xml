@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiserings-API"
+    id="a2942cee-df73-4537-beb1-d6ecf9f86300"
+    documentation="Et API som harvester i nasjonal Felles Begrepskatalog/Felles Datakatalog kan hente begreper fra."/>

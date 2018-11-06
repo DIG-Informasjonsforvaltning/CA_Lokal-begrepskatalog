@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL-applikasjon"
+    id="5391fd29-9518-419f-8f24-7e3c1f457dbe"
+    documentation="Applikasjon som inneholder &#xD;&#xA;- Ekstrakt,&#xD;&#xA;- Transformer, og kanskje&#xD;&#xA;- Load&#xD;&#xA;funksjonalitet.&#xD;&#xA;Henter begreper fra intern Begrepsforvaltningsapplikasjon og tilgjengeliggjør disse for nasjonal felleskomponent."/>

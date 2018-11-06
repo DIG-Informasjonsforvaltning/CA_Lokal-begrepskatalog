@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GET https://data.brreg.no/begrep"
+    id="1be5d197-a82a-4f23-922c-91bbd3ada63e"
+    documentation="TPSPOC-113: Eksponering av tjeneste i openshift på begrep.brreg.no&#xD;&#xA;I forbindelse med ny begreps-komponent (https://jira.brreg.no/servicedesk/customer/portal/21/TPSPOC-102) trenger vi å eksporere en (rest-api) tjeneste på begrep.brreg.no&#xD;&#xA;Vi trenger også at port 443 er åpen, sidan vi skal bruke https&#xD;&#xA;https://jira.brreg.no/servicedesk/customer/portal/21/TPSPOC-113">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_6786f1f4-7d22-4b97-a764-937c021505f5.xml#6786f1f4-7d22-4b97-a764-937c021505f5"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_071f8126-7cfa-42a5-9e41-8e128be846f4.xml#071f8126-7cfa-42a5-9e41-8e128be846f4"/>
+</archimate:FlowRelationship>

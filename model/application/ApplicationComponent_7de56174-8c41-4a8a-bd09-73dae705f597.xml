@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begrepsforvaltningsapplikasjon"
+    id="7de56174-8c41-4a8a-bd09-73dae705f597"
+    documentation="Applikasjon som støtter begrepsforvaltningsprosessen. I Brønnøysundregistrene er dette Jira."/>
